@@ -1,3 +1,34 @@
+# 🛍️ Amazon Website UI Automation – Selenium Project
+
+This is a UI automation testing project for the **Amazon India website**, built using **Java**, **Selenium WebDriver**, and **TestNG**. It simulates and tests real-time user actions like searching for products, adding them to the cart, and navigating the site — helping ensure the UI works smoothly.
+
+---
+
+## 💻 Tech Stack
+
+- **Language:** Java  
+- **Automation Framework:** Selenium WebDriver  
+- **Testing Framework:** TestNG  
+- **Build Tool:** Maven  
+- **IDE:** Eclipse  
+- **Browser Driver:** ChromeDriver
+
+---
+
+## 📂 Project Structure
+
+EcommerceUIAutomationTestingSelenium/
+├── src/
+│   └── test/
+│       └── java/
+│           ├── base/            # Browser setup and config
+│           ├── pages/           # Page Object Model classes
+│           └── testcases/       # All automation test cases
+├── pom.xml                      # Maven configuration
+├── testng.xml                   # TestNG test suite configuration
+├── README.md                    # Project documentation
+
+---
 
 ## 🚀 How to Run
 1. Clone this repository
