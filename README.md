@@ -15,21 +15,6 @@ This is a UI automation testing project for the **Amazon India website**, built 
 
 ---
 
-## 📂 Project Structure
-
-EcommerceUIAutomationTestingSelenium/
-├── src/
-│   └── test/
-│       └── java/
-│           ├── base/            # Browser setup and config
-│           ├── pages/           # Page Object Model classes
-│           └── testcases/       # All automation test cases
-├── pom.xml                      # Maven configuration
-├── testng.xml                   # TestNG test suite configuration
-├── README.md                    # Project documentation
-
----
-
 ## 🚀 How to Run
 1. Clone this repository
 2. Open it in Eclipse
